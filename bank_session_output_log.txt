@@ -1,0 +1,73 @@
+enter initial opening balance :10000
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 1
+Enter deposit amount: 5000
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 2
+Enter withdrawal amount: 4000
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 3
+Balance: 11000.00
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 4
+2026-10-28 11:11:18.958097: Deposit 5000.00
+2026-10-28 11:11:30.769641: Withdrawal 4000.00
+Current balance: 11000.00
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 5
+How many transactions should be shown? 2
+2026-10-28 11:11:18.958097: Deposit 5000.00
+2026-10-28 11:11:30.769641: Withdrawal 4000.00
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 6
+Opening balance: 10000.00
+Total deposits: 5000.00
+Total withdrawals: 4000.00
+Calculated balance: 11000.00
+Current balance: 11000.00
+Audit: PASSED
+1 Deposit
+2 Withdrawal
+3 Check balance
+4 Statement
+5 Mini Statemenet (Last N transection)
+6 End-of-Session Ledger Audit Summary
+7 Exit
+Choose an option: 7
+TQ for Using this Bank , Have a Nice day!.
